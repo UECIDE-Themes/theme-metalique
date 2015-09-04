@@ -1,0 +1,16 @@
+Source: theme-metalique
+Section: theme
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: theme-metalique
+Section: themes
+Architecture: all
+XBSC-Group: Metal
+Description: Metalique Theme
+ Clean metalic theme
+
+
+
