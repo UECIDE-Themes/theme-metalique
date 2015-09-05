@@ -1,5 +1,5 @@
 Source: theme-metalique
-Section: theme
+Section: themes
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
