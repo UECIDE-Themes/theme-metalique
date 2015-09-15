@@ -1,0 +1,30 @@
+theme-metalique (1.0.4) uecide; urgency=low
+
+  * Fixed main section
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sat, 5 Sep 2015 21:00:02 +0100
+
+theme-metalique (1.0.3) uecide; urgency=low
+
+  * Moved java to themes folder
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sat, 5 Sep 2015 20:38:00 +0100
+
+theme-metalique (1.0.2) uecide; urgency=low
+
+  * Added Hack font
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Fri, 4 Sep 2015 23:56:31 +0100
+
+theme-metalique (1.0.1) uecide; urgency=low
+
+  * Added Hack font
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Fri, 4 Sep 2015 22:33:35 +0100
+
+theme-metalique (1.0.0) uecide; urgency=low
+
+  * Initial Import
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Fri, 4 Sep 2015 22:30:07 +0100
+
